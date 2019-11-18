@@ -56,7 +56,7 @@ VS CODE
 
 (13) Navigate to the routes/index.js file.: ![Open index js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69103754-3e6b0680-0a34-11ea-886e-6f6f4fac5662.JPG)
 
-(14) Require mysql2 in routes/index.js file: 
+(14) Require mysql2 in routes/index.js file: ![require mysql2 in index js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69103790-5c386b80-0a34-11ea-99f8-1c176507ffb9.JPG)
 
 
 COMMAND PROMPT
