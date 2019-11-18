@@ -91,7 +91,8 @@ COMMAND PROMPT
     
 VS CODE
 
-(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: 
+(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![Open app js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69103931-b6d1c780-0a34-11ea-9320-c246e9fb5eb6.JPG)
+
 
 
 (22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
