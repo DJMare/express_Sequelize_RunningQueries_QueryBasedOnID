@@ -72,7 +72,8 @@ COMMAND PROMPT
 
 VS CODE
 
-(17) Open config/config.json file and change settings to connect to the database: 
+(17) Open config/config.json file and change settings to connect to the database: ![update database info in config-config json file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69103865-8be77380-0a34-11ea-9035-a6f475887898.JPG)
+
 
 COMMAND PROMPT
 
