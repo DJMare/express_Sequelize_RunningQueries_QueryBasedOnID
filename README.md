@@ -95,8 +95,7 @@ VS CODE
 
 ![Require models in app js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69103988-e97bc000-0a34-11ea-82fc-c26ecc852efb.JPG)
 
-
-(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
+(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![Add sequelize sync in app js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69104106-44151c00-0a35-11ea-94dc-3e5651104035.JPG)
 
 (23) In the views folder, create a specificActor.hbs file and add code to show the names of the actors.: 
 
