@@ -54,9 +54,9 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file.: ![open index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999242-04f79700-088c-11ea-8005-c358fecca4e3.JPG)
+(13) Navigate to the routes/index.js file.: 
 
-(14) Require mysql2 in routes/index.js file: ![equire mysql2 in index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999260-57d14e80-088c-11ea-931f-d12d7416db55.JPG)
+(14) Require mysql2 in routes/index.js file: 
 
 
 COMMAND PROMPT
@@ -72,9 +72,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(17) Open config/config.json file and change settings to connect to the database: ![open config json file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999286-cca48880-088c-11ea-9bef-5f85093734ce.JPG)
-
-![update database info in config json file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999308-ecd44780-088c-11ea-95d1-60b1011aae85.JPG)
+(17) Open config/config.json file and change settings to connect to the database: 
 
 COMMAND PROMPT
 
@@ -92,18 +90,16 @@ COMMAND PROMPT
     
 VS CODE
 
-(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: ![open app js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999221-ad592b80-088b-11ea-9091-7c67a636e160.JPG)
+(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application: 
 
-![require models in app js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999230-d4aff880-088b-11ea-9aaa-0dae418b1aa4.JPG)
 
-(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![add sequelize sync in app js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999272-9a932680-088c-11ea-8bea-2604d3c1637e.JPG)
+(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
 
-(23) In the views folder, create a specificActor.hbs file and add code to show the names of the actors.: ![create specificActor hbs file in views folder (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999372-463c7680-088d-11ea-9db9-7e67db07ac83.JPG)
+(23) In the views folder, create a specificActor.hbs file and add code to show the names of the actors.: 
 
-(24) In the routes/index.js file, require the models.: ![require models in the routes index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999252-2b1d3700-088c-11ea-8400-bb4d1bddde9b.JPG)
+(24) In the routes/index.js file, require the models.: 
 
-(25) Add a get() route for /specificActor to the routes/index.js file.: ![add get() route for specificActor in index js file (express_Sequelize_RunningQueries_QueryOneActor)](https://user-images.githubusercontent.com/35668707/68999396-7a179c00-088d-11ea-8f7e-b6baa17a7d21.JPG)
-
+(25) Add a get() route for /specificActor to the routes/index.js file.: 
 
 COMMAND PROMPT
 
@@ -113,7 +109,7 @@ COMMAND PROMPT
 
 WEB BROWSER
 
-(27) Navigate to localhost3000/specificActor to view the list of all actors.: ![navigate to localhost3000-specificActor to view](https://user-images.githubusercontent.com/35668707/68999406-a9c6a400-088d-11ea-9515-5babd2146930.JPG)
+(27) Navigate to localhost3000/actor/[insert number] to view the actor based on ID.
 
 
 NODEMON NOTE
