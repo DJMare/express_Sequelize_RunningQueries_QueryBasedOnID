@@ -101,7 +101,8 @@ VS CODE
 
 (24) In the routes/index.js file, require the models.: 
 
-(25) Add a get() route for /specificActor to the routes/index.js file.: 
+(25) Add a get() route for /specificActor and /actor/:id to the routes/index.js file.: ![add get() routes in index js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69104203-92c2b600-0a35-11ea-87d4-23a520cb4d2c.JPG)
+
 
 COMMAND PROMPT
 
