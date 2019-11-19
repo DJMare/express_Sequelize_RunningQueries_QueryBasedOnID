@@ -112,7 +112,7 @@ COMMAND PROMPT
 
 WEB BROWSER
 
-(27) Navigate to localhost3000/actor/[insert number] to view the actor based on ID.
+(27) Navigate to localhost3000/actor/[insert number] to view the actor based on ID.: ![navigate to localhost3000 to view actors based on ID (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69156671-c4796280-0ab1-11ea-8cbd-e1a104ef2df7.JPG)
 
 
 NODEMON NOTE
