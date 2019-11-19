@@ -99,7 +99,7 @@ VS CODE
 
 (23) In the views folder, create a specificActor.hbs file and add code to show the names of the actors.: ![Create and add handlebars code for specificActor in the views folder (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69104314-d7e6e800-0a35-11ea-97a9-7de974984b2e.JPG)
 
-(24) In the routes/index.js file, require the models.: 
+(24) In the routes/index.js file, require the models.: ![require models in index js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69104415-21373780-0a36-11ea-9463-d184e33cd4f8.JPG)
 
 (25) Add a get() route for /specificActor and /actor/:id to the routes/index.js file.: ![add get() routes in index js file (Sequelize_RunningQueries_QueryBasedOnID)](https://user-images.githubusercontent.com/35668707/69104203-92c2b600-0a35-11ea-87d4-23a520cb4d2c.JPG)
 
