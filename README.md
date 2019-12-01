@@ -1,4 +1,4 @@
-# express_Sequelize_RunningQueries_QueryBasedOnID
+# Sequelize_RunningQueries_QueryBasedOnID
 An express app utilizing sequelize to connect to mySQL and running specific query based on ID. 
 
 COMMAND PROMPT
